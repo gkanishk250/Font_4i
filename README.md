@@ -28,4 +28,4 @@ Enter your subscription key `var subscriptionKey = "YourSubscriptionKeyHere";`
 • Azure's Face API
 
 ## Author(s)
-Aditya Sharma
+Kanishk Gupta
